@@ -48,15 +48,21 @@ I like the general aesthetics of the piece, the reporter used some pictures, but
 # PITCH: The exodus of DC
 
 What interesting question you want to answer:
+
 How many people left the city in the past year (because of the pandemic)? 
+
 Different crisis in the city.
+
 More people allow to telework.
+
 DC pre pandemic vs. DC post pandemic.
 
 Why this story is timely now
+
 We are going to mark a year anniversary when the pandemic started and it would be good to have an idea with all that happened in the city in the past year if people are staying or just finding new places to live.
  
 What types of people you could talk to for sources:
+
 Census.
 People from companies.
 People that found new places to live.
