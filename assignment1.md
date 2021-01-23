@@ -17,10 +17,12 @@ I guess it would help compare and contrast the reporter’s data with Airbnb’s
 They used the Airbnb source at the end of the piece. The last part of the article could have been more intertwined with the original research. Not just adding the opinion of the Airbnb Analytics person at the end.
 
 **Quality** 
+
 Quality of the graphics: 3.
 The piece used two different graphics: Airbnb activity by neighborhood and Airbnb growth in San Francisco and Airbnb Growth in San Francisco. For the second one, I would recommend improving the two bars, including the locations, that one is very complicated to read. I would suggest using a different type of graphic, maybe. I got lost on that two bars.
 
 **Type and color (if a piece includes graphics)** 
+
 In graphic 1, I think they made good use of color and type. Graphic number 2, I would recommend some more work on that, on how the reporter could structure the information visually, so it was easy for the audience to read. 
 
 Graphic 1
@@ -42,7 +44,7 @@ I like the general aesthetics of the piece, the reporter used some pictures, but
 
 ---------------
 
-# ** PITCH: The exodus of DC** 
+# PITCH: The exodus of DC
 
 What interesting question you want to answer:
 How many people left the city in the past year (because of the pandemic)? 
