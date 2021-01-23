@@ -56,7 +56,7 @@ How many people left the city in the past year (because of the pandemic)?
 
 Why this story is timely now
 
-We are going to mark a year anniversary when the pandemic started and it would be good to have an idea with all that happened in the city in the past year if people are staying or just finding new places to live.
+We will mark a year anniversary when the pandemic started, and it would be good to have an idea with all that happened in the city in the past year if people are staying or just finding new places to live.
  
 What types of people you could talk to for sources:
 
