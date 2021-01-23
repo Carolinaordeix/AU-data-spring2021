@@ -39,3 +39,22 @@ Creativity
 Effectiveness: 3.
 
 I like the general aesthetics of the piece, the reporter used some pictures, but I don’t think those were so relevant to the piece. I guess the first graphic helps to draw the reader in, but I would say that is the high point. I wouldn’t say this piece was super creative; overall, some improvements could help the reader better understand the information.
+
+---------------
+
+The exodus of DC
+
+What interesting question you want to answer:
+How many people left the city in the past year (because of the pandemic)? 
+Different crisis in the city.
+More people allow to telework.
+DC pre pandemic vs. DC post pandemic.
+
+Why this story is timely now
+We are going to mark a year anniversary when the pandemic started and it would be good to have an idea with all that happened in the city in the past year if people are staying or just finding new places to live.
+ 
+What types of people you could talk to for sources:
+Census.
+People from companies.
+People that found new places to live.
+ 
