@@ -37,7 +37,7 @@ Color: 3
 Degree of quality: 2
 From a content standpoint, there are two graphics in this image that need more space between them. And I would suggest using different colors, so you mark a difference between the average prices per type of place of residence, and the Locations per residence. Also I would suggest to re-work the titles of each graphic for more clarity. Using different typography would had help the reader to identify more easily the data in this graphic.
 
-** Creativity** 
+**Creativity** 
 Effectiveness: 3.
 
 I like the general aesthetics of the piece, the reporter used some pictures, but I don’t think those were so relevant to the piece. I guess the first graphic helps to draw the reader in, but I would say that is the high point. I wouldn’t say this piece was super creative; overall, some improvements could help the reader better understand the information.
