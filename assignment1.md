@@ -50,12 +50,9 @@ I like the general aesthetics of the piece, the reporter used some pictures, but
 What interesting question you want to answer:
 
 How many people left the city in the past year (because of the pandemic)? 
-
-Different crisis in the city.
-
-More people allow to telework.
-
-DC pre pandemic vs. DC post pandemic.
+-Different crisis in the city.
+-More people allow to telework.
+-DC pre pandemic vs. DC post pandemic.
 
 Why this story is timely now
 
@@ -63,7 +60,7 @@ We are going to mark a year anniversary when the pandemic started and it would b
  
 What types of people you could talk to for sources:
 
-Census.
-People from companies.
-People that found new places to live.
+-Census.
+-People from companies.
+-People that found new places to live.
  
